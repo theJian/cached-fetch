@@ -38,3 +38,4 @@ const cachedFetch = (url, options) => {
   });
 }
 
+export default cachedFetch;
