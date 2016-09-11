@@ -1,0 +1,23 @@
+{
+  "name": "cached-fetch",
+  "version": "0.1.0",
+  "description": "Cache fetched request in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJian/cached-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "cache"
+  ],
+  "author": "A2ZH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theJian/cached-fetch/issues"
+  },
+  "homepage": "https://github.com/theJian/cached-fetch#readme"
+}
