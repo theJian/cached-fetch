@@ -5,7 +5,7 @@ Cache fetched request in the browser.
 
 The `cached fetch` funtion APIs is same as `fetch` function, but with differences below.
 
-It will cache calls in the browser and clear after a while. The default expiry time is 10 minutes.
+It will cache calls in the browser and clear after a while. The default expiry time is 120 seconds.
 
 ```
 cachedFetch('/data.json')
