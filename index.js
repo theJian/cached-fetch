@@ -1,6 +1,6 @@
 const cachedFetch = (url, options) => {
 
-  let expiry = 10 * 60; // 10 minutes
+  let expiry = 120; // default expiry 120 seconds
 
   if(typeof options === 'number') {
     expiry = options;
